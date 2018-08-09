@@ -1,0 +1,26 @@
+Fri Aug  3 10:41:26 2018 ftp server start running
+Fri Aug  3 10:41:26 2018 set SIGINT signal handle success
+Fri Aug  3 10:41:31 2018 find active client fd is 3
+Fri Aug  3 10:41:31 2018 accept control connection from client 5
+Fri Aug  3 10:41:37 2018 find active client fd is 5
+Fri Aug  3 10:41:37 2018 start process client command 5
+Fri Aug  3 10:41:37 2018 recv command from client, command isUSER wang
+
+Fri Aug  3 10:41:37 2018 parse client command success
+Fri Aug  3 10:41:43 2018 find active client fd is 5
+Fri Aug  3 10:41:43 2018 start process client command 5
+Fri Aug  3 10:41:43 2018 recv command from client, command isPASS 123
+
+Fri Aug  3 10:41:43 2018 parse client command success
+Fri Aug  3 10:41:49 2018 find active client fd is 5
+Fri Aug  3 10:41:49 2018 start process client command 5
+Fri Aug  3 10:41:49 2018 recv command from client, command isPWD
+
+Fri Aug  3 10:41:49 2018 parse client command success
+Fri Aug  3 10:41:49 2018 cannot parse command,please enter correct command 5
+Fri Aug  3 10:42:18 2018 find active client fd is 5
+Fri Aug  3 10:42:18 2018 start process client command 5
+Fri Aug  3 10:42:18 2018 recv command from client, command isCWD 
+
+Fri Aug  3 10:42:18 2018 parse client command success
+Fri Aug  3 10:42:18 2018 cannot parse command,please enter correct command 5
